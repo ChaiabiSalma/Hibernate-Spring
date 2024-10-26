@@ -11,7 +11,7 @@ Ce projet est une application développée en utilisant **Hibernate** et le fram
 - **Maven** : Pour la gestion des dépendances du projet
 
 ## Prérequis
-- Java JDK 8 ou plus récent
+- Java JDK 
 - Apache Maven
 - Serveur de base de données MySQL
 - IDE compatible Java (Eclipse, IntelliJ IDEA, etc.)
